@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm an **IT engineering student** from India, aspi
 
 ## ✍️ Blog:
 I share my journey, insights, and tips on DevOps, software development, and more.  
-Check out my latest posts [here](yashpatilofficial.hashnode.dev).
+Check out my latest posts [here](https://yashpatilofficial.hashnode.dev/).
 
 
 ---
