@@ -6,9 +6,10 @@ Welcome to my GitHub profile! I'm an **IT engineering student** from India, aspi
 
 ## 🛠️ Technologies & Tools:
 - **Languages**: Python, Java
-- **DevOps & Cloud**: Linux, Docker, Jenkins, Kubernetes, AWS
+- **DevOps & Cloud**: Linux, Docker, Jenkins,Github Actions, Kubernetes, AWS
 - **Computer Networking**
 - **Build Tools**: NPM, Maven, Gradle
+- **Artifact Repository Management**: Sonatype Nexus, JFrog Artifactory
 - **Web Servers**: Nginx, Apache(HTTPD), Apache Tomcat
 - **Version Control**: Git, GitHub
 - **Databases**: MongoDB, MySQL
@@ -23,8 +24,8 @@ Check out my latest posts [here](https://yashpatilofficial.hashnode.dev/).
 ---
 
 ## 📫 Let's Connect:
-- **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/yash-patil-24112a258/)
-- **Twitter**: [twitter.com/your-handle](https://x.com/YashPatil_04)
+- **LinkedIn**: [Here](https://www.linkedin.com/in/yash-patil-24112a258/)
+- **Twitter**: [Here](https://x.com/YashPatil_04)
 
 ---
 
